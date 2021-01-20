@@ -1,6 +1,6 @@
 # Animation with create React App
 
-##This project was created with ReactJs, and  the animation done with Javascript
+This project was created with ReactJs, and  the animation done with Javascript
 
 
 
